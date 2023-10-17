@@ -1,15 +1,18 @@
 # Meta-CETM
-Official implementation of "Context-guided Embedding Adaptation for Effective Topic Modeling in Low-Resource Regimes" (NeurIPS 2023)
 
-Authors: Yishi Xu<sup>1</sup>,  Jianqiao Sun<sup>1</sup>, Yudi Su<sup>1</sup>, Xinyang Liu<sup>1</sup>, Zhibin Duan<sup>1</sup>, 
+<p align="center">
+    <a href="https://github.com/jqsun98/Meta-CETM/"><img src="poster.png" width="100%"></a>
+</p>
 
-Bo Chen<sup>\*1</sup> (\*Corresponding Author), Mingyuan Zhou<sup>2</sup> 
+Official implementation of "**Context-guided Embedding Adaptation for Effective Topic Modeling in Low-Resource Regimes**" (NeurIPS 2023)
+
+Authors: Yishi Xu<sup>1</sup>,  Jianqiao Sun<sup>1</sup>, Yudi Su<sup>1</sup>, Xinyang Liu<sup>1</sup>, Zhibin Duan<sup>1</sup>, Bo Chen<sup>\*1</sup>, Mingyuan Zhou<sup>2</sup> 
+
+(\*Corresponding Author)
 
 <sup>1</sup> **National Key Laboratory of Radar Signal Processing, Xidian University**
 
 <sup>2</sup> **McCombs School of Business, The University of Texas at Austin**
-
-# Framework
 
 # Quick Start
 
